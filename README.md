@@ -5,7 +5,6 @@ A simple Python program that converts text to speech.
 * [Technologies](#Technologies)
 * [Text Data](#Technologies)
 * [Setup](#LocalSetup)
-* [ToDo](#ToDo)
 
 ## Technologies
 * [pyttsx3]
@@ -14,7 +13,7 @@ A simple Python program that converts text to speech.
 * This program is currently translating the latest text post from [r/cscareerquestions] on Reddit
 
 ## LocalSetup
-1) Install All Dependencies   
+1) Install Dependencies   
 `pip3 install -r requirements.txt`
 
 2) Run the File  
